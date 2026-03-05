@@ -67,10 +67,10 @@ Acredito que tecnologia bem aplicada gera crescimento sustentável, clareza estr
 🔹 Sistema de chamados com Google Sheets como backend  
 🔹 Portfólio em React com foco estratégico  
 🔹 Estruturação de funil completo Meta + Google  
-🔹 Automação de atendimento para clínicas
-🔹 Aplicativo de gestão de partidas de futebol amador
-🔹 Aplicativo de Gestão e elaboração de cardápio com IA para nutricionistas
-🔹 Plataforma Educacional com Inteligência Artificial
+🔹 Automação de atendimento para clínicas  
+🔹 Aplicativo de gestão de partidas de futebol amador  
+🔹 Aplicativo de Gestão e elaboração de cardápio com IA para nutricionistas  
+🔹 Plataforma Educacional com Inteligência Artificial  
 
 ---
 
